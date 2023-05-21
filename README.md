@@ -65,6 +65,6 @@ endpoints that require authentication (POST /api/products, PUT /api/products/:id
   
 You can use tools like Postman to test the API endpoints. Here's an example of using cURL to make a request to the API:</br>
 for eg: this is test of API of adding a new  item  
-![Alt text](./screenshots/image.jpeg)
+![Alt text](./image.jpeg)
 
 
